@@ -1,4 +1,4 @@
-# MergeAndConflits
+REMOTE # MergeAndConflits
 Merge &amp; Conflits
 
 
